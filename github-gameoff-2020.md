@@ -1,0 +1,15 @@
+# GitHub Game Off 2020
+
+I will be leading a group at the GitHub Game Off and will be hosting sessions every Saturday from 4:00PM to 6:00PM until Dec 5. If you are interested please fill out this form so I can make sure you receive updates: https://bit.ly/353Z5aH
+ 
+Meeting Link: https://bit.ly/2JHNQMS
+Meeting Password: Ms3vQeJT2N3
+
+
+## Teams/Groups
+
+| Team Name		| Team Lead			| Project Name	| Project Description |
+|---------------|-------------------|---------------|---------------------|
+| **Team 1**											| [@brookeann1694](https://github.com/brookeann1694)	| -				| 3D Mobile Subway Surfer-like |
+| **Team 2**											| [@bpw99](https://github.com/bpw99)					| -				| 2-player Galagus |
+| [**Team 3**](https://github.com/avonbied/gameof2020)	| [@avonbied](https://github.com/avonbied)				| -				| Unknown |
