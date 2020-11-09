@@ -1,10 +1,6 @@
 # GitHub Game Off 2020
 
-I will be leading a group at the GitHub Game Off and will be hosting sessions every Saturday from 4:00PM to 6:00PM until Dec 5. If you are interested please fill out this form so I can make sure you receive updates: https://bit.ly/353Z5aH
- 
-Meeting Link: https://bit.ly/2JHNQMS
-Meeting Password: Ms3vQeJT2N3
-
+I will be leading a group at the GitHub Game Off and will be hosting sessions every Saturday from 4:00PM to 6:00PM until Dec 5.
 
 ## Teams/Groups
 
